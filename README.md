@@ -1,2 +1,2 @@
 # javascript--demo
-Demo for javascript simple projects
+Demo for javascript simple  and intermidiate projects
